@@ -41,6 +41,6 @@ Create a struct called "Point" to represent a 2D point with properties "X" and "
 ### Task 6
 
 Create a struct called "Person" with properties "Name" and "Age". Write a C# program that takes details of 3 persons as input from the user and displays the name and age of the oldest person
-[Name](https://github.com/d12o6aa/100DaysOfCoding/001/Assignment_01/Name.cs)
+[Person2](https://github.com/d12o6aa/100DaysOfCoding/001/Assignment_01/Person2.cs)
 
 ---
